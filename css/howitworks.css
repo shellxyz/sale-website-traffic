@@ -1,0 +1,155 @@
+@CHARSET "ISO-8859-1";
+.howitworks_textarea {
+	margin-left:55px;
+	margin-right:55px;
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:16px;
+	font-weight:100;
+	color:#5f5f5f;
+	line-height:26px;
+}
+
+.howitworks_textarea_author {
+	font-size:14px;
+	color:#878686;
+	font-weight:lighter;
+}
+
+.howitworks_textarea hr {
+	color:#dad9d9;
+	background-color:#bebebe;
+	height:1px;
+	border:none;
+	margin-bottom:10px;
+	margin-top:9px;
+}
+
+.howitworks_textbox {
+ 	/*height:1250px;*/
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	background-color: white;
+	border: 10px solid #EDEDED;
+	border-radius: 10px;
+	padding-left:31px;
+	padding-right:31px;
+	padding-top:18px;
+	padding-bottom:18px;
+	text-align:justify;
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:16px;
+	font-weight:lighter;
+	color:#3f3f3f;
+	float:right;
+	width:440px;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+
+.howitworks_textbox_orange {
+ 	/*height:1250px;*/
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	background-color: white;
+	border: 10px solid #EDEDED;
+	border-radius: 10px;
+	padding-left:31px;
+	padding-right:31px;
+	padding-top:18px;
+	padding-bottom:18px;
+	text-align:justify;
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:16px;
+	font-weight:lighter;
+	color:#3f3f3f;
+	float:right;
+	width:440px;
+	margin-right:30px;
+	margin-left:30px;
+	margin-bottom:21px;
+	background-color:#FF9600;
+	color:#fff;
+}
+
+
+
+.howitworks_textbox ol {
+	list-style-type:decimal;
+	padding-left:21px;
+}
+
+.howitworks_textbox li {
+	margin-bottom:10px;
+}
+
+.howitworks_textbox b {
+	font-weight:bold;
+}
+
+.howitworks_textbox a {
+	text-decoration:underline;
+	color:#333;
+}
+
+.howitworks_numberbox {
+	color:#3f3f3f;
+	font-size:16px;
+	font-weight:lighter;
+}
+
+.howitworks_numberbox .number {
+	display:inline-block;
+	font-size:53px;
+	width:35px;
+	border-right:1px solid #bcbcbc;
+	text-align:left;
+}
+
+.howitworks_numberbox .title {
+	display:inline-block;
+	padding-left:10px;
+	font-size:20px;
+}
+
+.howitworks_factbox {
+	margin-left:0px;
+	margin-right:0px;
+	padding-left:60px;
+	padding-right:41px;
+}
+
+.howitworks_factbox .leftbox {
+	float:left;
+	width:350px;
+	padding-top:45px;
+}
+
+.howitworks_textbox_4 {
+	height:498px;
+}
+
+.howitworks_factbox_4 {
+	height:592px;
+}
+
+.howitworks_factbox_odd {
+	background-color:#f6f5f5;
+}
+
+img.center {   
+	display: block;   
+	margin-left: auto;   
+	margin-right: auto; 
+}
+
+h2{
+	
+	font-size:30px;
+	margin-bottom:18px;
+	font-weight:bold;
+	text-transform:uppercase;}
+	
+h3{
+	font-size:20px;
+	font-weight:bold;
+}

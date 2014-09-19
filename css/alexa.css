@@ -1,0 +1,187 @@
+/*--------ALEXA CLASSES--------*/
+
+.alexa_header{
+	margin-top:5px;
+	margin-left:35px;
+}
+
+.alexa_left{
+	float:left;
+	width:360px;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:52px;
+	text-align:justify;
+	font-size:16px;
+	color:#1761a1;
+	border:5px solid #ededed;
+	margin-top:25px;
+	margin-left:30px;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.alexa_left hr{
+	border:none;
+	background-color:#c0c0c0;
+	color:#c0c0c0;
+	margin-bottom:10px;
+}
+
+.alexa_right{
+	position:relative;
+	float:right;
+	width:430px;
+	padding:15px;
+	color:#1761a1;
+	text-align:left;
+	margin-top:25px;
+	margin-right:30px;
+	background-color:#f6f5f5;
+	border:10px solid #ededed;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.alexa_right img{
+	position:absolute;
+	width:468px;
+	height:173px;
+	top:-175px;
+	left:0px;
+}
+
+.alexa_right_question{
+	font-size:20px;
+	font-weight:bold;
+	color:#555555;
+}
+
+.alexa_right_answer{
+	margin-bottom:25px;
+}
+
+.alexa_right2{
+	float:right;
+	width:450px;
+	padding:15px;
+	color:#1e1e1d;
+	text-align:justify;
+	margin-top:10px;
+	margin-right:30px;
+	margin-bottom:10px;
+	background-color:#ffee99;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+
+.alexa_traffic_plans{
+	position:relative;
+	margin: 0 auto;
+	width:918px;
+	height:360px;
+	margin-bottom: 60px;
+	font-weight:bold;
+	background-color:#0b499d;
+	-webkit-border-radius:15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.alexa_traffic_plans h2{
+	font-size:40px;
+	text-align:center;
+	padding-top:10px;
+	margin-bottom:10px;
+	color:#FFF;
+}
+
+.alexa_traffic_plans ul li{
+	padding-bottom:5px;
+	padding-left:20px;
+	height:34px;
+	color:#f8f193;
+}
+
+.alexa_traffic_plans_bgcolor{
+	background-color:#015ecf;
+}
+
+.alexa_visitors{
+	display:inline-block;
+	width:190px;
+	margin-left:40px;
+	font-size:21px;
+	color:#fff;
+}
+
+.alexa_visitsperday{
+	display:inline-block;
+	width:140px;
+	margin-left:25px;
+	font-size:21px;
+}
+
+.alexa_price{
+	margin-left:20px;
+	font-size:33px;
+	color:#fdff8a;
+}
+
+.alexa_ordernow_big2{
+	position:absolute;
+	width:451px;
+	height:92px;
+	padding-top:27px;
+	bottom:-44px;
+	left:215px;
+	font-size:42px;
+	text-align:center;
+	color:#3a3a3a;
+	background-image:url(../images/revisitors_traffic_plan_footer2.jpg);
+	background-repeat:no-repeat;
+}
+
+.alexa_ordernow_big2 b{
+	font-size:18px;
+}
+
+.alexa_looking{
+	position:relative;
+	margin:0 auto;
+	width:875px;
+	height:50px;
+	font-size:21px;
+	color:#3f3f3f;
+	padding-top:20px;
+	padding-left:20px;
+	background-color:#f6f5f5;
+	border:10px solid #ededed;
+	margin-top:25px;
+	margin-left:30px;
+	-webkit-border-radius:10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.alexa_price {
+	display: inline-block;
+	width: 130px;
+}
+
+.home_traffic_plans {
+	height: 350px;
+}
+
+.home_visitors {
+	color: white;
+}
+
+.alexa_traffic_plans {
+	width: 550px;
+}
