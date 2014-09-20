@@ -12,7 +12,7 @@
 			<td style='padding-left: 30px;'>
 			<p style='font-size: 14px; font-family: Arial'>Buy Web-site Visitors
 			and Internet Traffic from Just E.T.C</p>
-			<p>Advertise your business on Just E.T.C. Establish your brand or reach to your potential customers. 
+			<p>Advertise your business on Just E.T.C. Establish your brand or reach to your potential customers.
 			<br/><br/>Explore your options below</p>
 
 			</td>
@@ -21,8 +21,8 @@
 		<tr>
 			<td style='padding-left: 30px; padding-top: 20px'
 				style="padding-bottom: 10px;">
-				<a href="http://addserver.onlineservicescloud.com/indexProduct.php" style='text-color: black; text-decoration: none'> 
-				<strong>North America: Full Page View Advertisements</strong><br /> 
+				<a href="http://addserver.onlineservicescloud.com/indexProduct.php" style='text-color: black; text-decoration: none'>
+				<strong>North America: Full Page View Advertisements</strong><br />
 				You can Target Country and Category. You will not find traffic of this quality with such amazing prices...Click &amp; Read Product	Details
 				</a>
 			</td>
@@ -90,7 +90,7 @@
 			<td style='padding-top: 20px' align="left">
 			<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input
 				name="cmd" value="_xclick" type="hidden"> <input name="business"
-				value="support@justetc.net" type="hidden"> <input name="lc"
+				value="paypal@yourdomain.com" type="hidden"> <input name="lc"
 				value="CA" type="hidden"> <input name="item_name"
 				value="USA Canada Unique VISITORS Website Traffic" type="hidden"> <input
 				name="button_subtype" value="services" type="hidden"> <input
@@ -157,7 +157,7 @@
 		</tr>
 
 		<tr>
-			<td style='padding-left: 30px; padding-top: 20px' style="padding-bottom: 10px;"><a	href="http://addserver.onlineservicescloud.com/register.php" style='text-color: black; text-decoration: none'> 
+			<td style='padding-left: 30px; padding-top: 20px' style="padding-bottom: 10px;"><a	href="http://addserver.onlineservicescloud.com/register.php" style='text-color: black; text-decoration: none'>
 			<strong>CPC, and CPM Advertisements</strong> </a> <br />
 			Register here to buy Text Ads, Image Ads, Video Ads, Pop-under Ads,
 			Pop-up Ads, In Video Ads, Inline Ads, Full Page Ads, Peel Ads, Splash
