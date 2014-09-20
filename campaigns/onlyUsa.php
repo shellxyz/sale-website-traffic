@@ -3,13 +3,13 @@
 <center>
 <?php
 	// we connect to example.com and port 3307
-	$link = mysql_connect('localhost', 'db-user-traffic', 'traffic-user-password');
+	$link = mysql_connect('localhost', 'visitor_traffic', 'traffic-user-password');
 	if (!$link) {
 	    die('Could not connect: ' . mysql_error());
 	}
 
 
-	if (!mysql_select_db("traffic-database")) {
+	if (!mysql_select_db("visitor_traffic-database")) {
 	    echo "Unable to select mydbname: " . mysql_error();
 	    exit;
 	}

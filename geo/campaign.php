@@ -8,7 +8,7 @@
 	}
 
 
-	if (!mysql_select_db("traffic-database")) {
+	if (!mysql_select_db("visitor_traffic-database")) {
 	    echo "Unable to select mydbname: " . mysql_error();
 	    exit;
 	}
