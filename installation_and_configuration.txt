@@ -1,0 +1,26 @@
+1. Take the SQLs in the file under database folder
+   create a database and execute the scripts there
+2. If you want to track visits (IP) for each of your web-sites. Keep history of the IPs that were sent to a particular web-site.
+   you will need one database table for that. You can keep all IPs for all sites in the same table as well.
+3. Ad this block to the pages where you want full page view advertisements - on the web-site where ads will be shown
+
+<?php
+	if ($_GET['isCampaign']!="1"){
+		require_once 'geo.php';
+	}
+?>
+
+4. In the file geo.php (at the root of the site - the site where ads will be shown)
+   Change the value of interval in milli seconds. If you want to display ad in every 60 minutes, set it to 60000 (will confirm on this soon)
+
+  if ( abs($currentTime-$accessed) >= $interval ){
+  }
+
+ideally you do not want to show ads on every visit to the site by the same user. By using this interval for a particular visitor/IP the ad will be shown once
+in every $interval period.
+
+5. You will need to copy the folders geo and the file geo.php to the site where you want to display ads. You can use a common geo.php and geo folder for all of
+your own sites.
+
+6. If you want to resale others' traffic - you can create or reuse the files under the campaign folder. Currently, these campaigns load sites based on country (your clients' country as
+you entered/stored (through Add-Websites interface) in the database  )
