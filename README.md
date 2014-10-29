@@ -74,7 +74,6 @@ Online Store
 
 Domain and Hosting
 
-    Domain and Hosting: www.JustEtc-Hosting.com
     Domain and Hosting for Bangladesh: www.JustEtc.info
 
 Others
